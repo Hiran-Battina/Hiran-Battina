@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hiran-Battina
 - 👀 I’m interested in C#, azure devops, asp.net core, new technologies...
-- 🌱 I’m currently learning kubernetes
+- 🌱 I’m currently learning kubernetes & terraform
 - 💞️ I’m looking to collaborate on azure devops
 - 📫 How to reach me hiranmayi.battina@outlook.com
 
